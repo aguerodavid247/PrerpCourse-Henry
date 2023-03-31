@@ -1,2 +1,1 @@
-# PrerpCourse-Henry
-Repositorio de prueba de Modulo 2 de Soy Henry
+Este es un modulo de prueba para curso inicial de Soy Henry!
